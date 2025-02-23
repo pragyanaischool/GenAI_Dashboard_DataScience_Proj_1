@@ -8,7 +8,7 @@ st.set_page_config(
     page_title='GDP dashboard',
     page_icon=':earth_americas:', # This is an emoji shortcode. Could be a URL too.
 )
-st.title(" GDP DashBoard ")
+st.title(" GDP DashBoard - PragyanAI")
 # -----------------------------------------------------------------------------
 # Declare some useful functions.
 
